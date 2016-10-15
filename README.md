@@ -8,9 +8,10 @@ Deteksi kesalahan akan muncul jika nama tidak diisi lalu ditekan tombol button O
 * Screenshots
 ![screenshot1](https://github.com/saskiapuspita/FormBimbel/blob/master/Screenshot_2016-09-11-21-42-36.png)
 ![screenshot2](https://github.com/saskiapuspita/FormBimbel/blob/master/Screenshot_2016-09-11-21-43-33.png)
-![screenshot1](https://github.com/saskiapuspita/FormBimbel/blob/master/Screenshot_2016-09-11-21-43-50.png)
-![screenshot2](https://github.com/saskiapuspita/FormBimbel/blob/master/Screenshot_2016-09-11-21-44-01.png)
-![screenshot1](https://github.com/saskiapuspita/FormBimbel/blob/master/Screenshot_2016-09-11-21-59-27.png
+![screenshot3](https://github.com/saskiapuspita/FormBimbel/blob/master/Screenshot_2016-09-11-21-43-50.png)
+![screenshot4](https://github.com/saskiapuspita/FormBimbel/blob/master/Screenshot_2016-09-11-21-44-01.png)
+![screenshot5](https://github.com/saskiapuspita/FormBimbel/blob/master/Screenshot_2016-10-15-13-05-33.png)
+![screenshot6](https://github.com/saskiapuspita/FormBimbel/blob/master/Screenshot_2016-10-15-13-05-36.png)
 
 
 File APK
