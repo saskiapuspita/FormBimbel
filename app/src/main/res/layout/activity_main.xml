@@ -2,7 +2,8 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@color/accent_material_light">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -15,12 +16,12 @@
         tools:context="id.sch.smktelkom_mlg.tugas01.xiirpl2036.formbimbel.MainActivity">
 
         <TextView
-            android:id="@+id/textView2"
             style="@style/Base.TextAppearance.AppCompat.Headline"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
-            android:text="Bimbingan Belajar Smart" />
+            android:text="Bimbingan Belajar Smart"
+            android:textColor="@color/abc_background_cache_hint_selector_material_light" />
 
         <TextView
             android:id="@+id/textView"
@@ -31,13 +32,14 @@
             android:layout_alignRight="@+id/textView2"
             android:layout_below="@+id/textView2"
             android:gravity="center_horizontal"
-            android:text="Jalan Sapta No.56, Menteng Dalam, Jakarta Selatan" />
+            android:text="Jalan Sapta No.56, Menteng Dalam, Jakarta Selatan"
+            android:textColor="#ffffff" />
 
         <ImageView
             android:id="@+id/imageView"
             android:layout_width="match_parent"
             android:layout_height="70dp"
-            android:src="@drawable/ic_logo" />
+            android:src="@drawable/ic_logo1" />
 
         <android.support.design.widget.TextInputLayout
             android:layout_width="match_parent"
