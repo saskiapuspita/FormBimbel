@@ -6,7 +6,7 @@ jenjang pendidikan saat ini serta asal calon pendaftar.
 Deteksi kesalahan akan muncul jika nama tidak diisi lalu ditekan tombol button OK
 
 * Screenshots
-![screenshot1](https://github.com/saskiapuspita/FormBimbel/blob/master/Screenshot_2016-09-11-21-42-36.png)
+
 ![screenshot2](https://github.com/saskiapuspita/FormBimbel/blob/master/Screenshot_2016-09-11-21-43-33.png)
 ![screenshot3](https://github.com/saskiapuspita/FormBimbel/blob/master/Screenshot_2016-09-11-21-43-50.png)
 ![screenshot4](https://github.com/saskiapuspita/FormBimbel/blob/master/Screenshot_2016-09-11-21-44-01.png)
